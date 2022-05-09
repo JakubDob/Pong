@@ -1,0 +1,8 @@
+*
+!src
+!src/**
+!CMakeLists.txt
+!.gitignore
+!assets
+!assets/**
+!Config.cmake.in
